@@ -1,0 +1,32 @@
+:root{
+    --margin:0px 20px;
+    --color:white ;
+    --background-color: rgb(156, 247, 156);
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+a{
+    text-decoration: none;
+    color: rgb(7, 93, 244);
+}
+nav ul li{
+    list-style: none;
+    display: inline;
+    padding: 20px;
+    
+}
+nav{
+    background-color:var(--background-color);
+    height: 20px;
+    position: sticky;
+    top: 0px;
+}
+body{
+    background: rgb(214, 227, 211);
+}
+li:hover{
+    background-color: brown;
+    color:var(--color);
+}

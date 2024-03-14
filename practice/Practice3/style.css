@@ -1,0 +1,66 @@
+.parent {
+    background-color: white;
+    height: 410px;
+    width: 200px;
+    border: 2px solid rgb(108, 250, 160);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 7px;
+}
+img {
+    border-radius: 7px;
+}
+
+span {
+    border: 2px solid rgb(180, 212, 249);
+    border-radius: 8px;
+    padding: 0px 5px;
+}
+
+.box4 {
+    text-align: center;
+}
+
+button {
+    padding: 5px 9px;
+    border-radius: 9px;
+    color: rgb(95, 95, 242);
+    background-color: rgb(211, 248, 254);
+    border: none;
+}
+button:hover{
+    background-color: aqua;
+    color: aliceblue;
+}
+
+.add{
+    border:2px solid rgb(252, 141, 141) ;
+    background-color: white;
+    height: 450px;
+    width:290px ;
+    border-radius:7px;
+    padding:5px ;
+    margin:2px ;
+}
+h1{
+    font-size: 29px;
+}
+.small{
+    padding:0px 30px;
+}
+.add img{
+    width:290px;
+    border-radius:13px;
+}
+.button{
+    text-align: center;
+}
+span{
+    border: 2px solid rgb(180, 212, 249);
+    border-radius: 8px;
+    padding:0px 5px;   
+}
+body{
+    background-color: grey;
+    display:flex;
+}
